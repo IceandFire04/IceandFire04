@@ -1,7 +1,7 @@
 ## Hi!
 I'm IceandFire04, and I like playing video games among other non-virtual things. I like programming, art, swimming, and music composing.
 
-My favorite games are Plants vs. Zombies, Terraria (Calamity too), classic Doom and every now and then Geometry Dash _(If you couldn't tell from my stars)_. 
+My favorite games are Plants vs. Zombies, Terraria (Calamity too), Doom and every now and then Geometry Dash _(If you couldn't tell from my stars)_. 
 I mostly learn how to code from modding, mainly from the games mentioned.
 
 ### Languages I'm Learning
