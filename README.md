@@ -1,5 +1,5 @@
 ## Hi!
-I'm IceandFire04, and I like playing video games among other real-life things. I like programming, art, swimming, and I'm working on music composing.
+I'm IceandFire04. I like programming and I'm working on other things like art and stuff. I also swim.
 
 My favorite games are Plants vs. Zombies, Terraria (Calamity also), Doom, Sea of Thieves and osu. 
 I mostly learn how to code from modding, mainly from the games mentioned.
