@@ -4,7 +4,7 @@ I'm IceandFire04. I like programming and I'm working on other things like art an
 My favorite games are Plants vs. Zombies, Terraria (Calamity also), Doom, Sea of Thieves and osu. 
 I mostly learn how to code from modding, mainly from the games mentioned.
 
-### Languages I'm Learning
+### Languages I'm (Kinda) Learning
 - C# by modding Terraria and some Unity stuff
 - C++ from modding Plants vs. Zombies
 
