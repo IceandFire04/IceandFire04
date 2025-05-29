@@ -5,7 +5,7 @@ My favorite games are Plants vs. Zombies, Terraria (Calamity also), Doom, Sea of
 I mostly learn how to code from modding, mainly from the games mentioned.
 
 ### Languages I'm (Kinda) Learning
-- C# by modding Terraria and some Unity stuff
+- C# by modding Terraria and Unity stuff
 - C++ from modding Plants vs. Zombies
 
-That's about it! Stuff isn't posted here often, but I'll post it here when I can!
+That's about it! Check out my other repos if you're interested!!
