@@ -1,7 +1,7 @@
 ## Hi!
 I'm IceandFire04. I like programming _(really!)_ and other things like art and stuff.
 
-My favorite games are Plants vs. Zombies, Terraria (Calamity also), and Sea of Thieves. 
+My favorite games are Plants vs. Zombies, Terraria (+Calamity), Battle Cats and Sea of Thieves. 
 I mostly learn how to code from modding, mainly from some of the games mentioned.
 
 ### Languages I'm (Kinda) Learning
