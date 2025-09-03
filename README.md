@@ -7,6 +7,7 @@ I mostly learn how to code from modding, mainly from some of the games mentioned
 ### Languages I'm (Kinda) Learning
 - C# by modding Terraria and Unity stuff
 - C++ from modding Plants vs. Zombies
+- Python from Battle Cats (TBCML)
 
 That's about it! Check out my other repos if you're interested!!
 
