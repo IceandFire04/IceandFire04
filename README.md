@@ -9,6 +9,8 @@ I mostly learn how to code from modding, mainly from some of the games mentioned
 - C++ from modding Plants vs. Zombies
 - Python from Battle Cats (TBCML)
 
-That's about it! Check out my other repos if you're interested!!
+I'm also on [Codeberg](https://codeberg.org/IceandFire04), where I do some Battle Cats stuff.
+
+That's about it! Check out my repos if you're interested!!
 
 _John 3:16 - For God so loved the world he gave his only Son, that whoever believes in him should not die but have eternal life._
