@@ -9,6 +9,6 @@ I mostly learn how to code from modding, mainly from some of the games mentioned
 - C++ from modding Plants vs. Zombies
 - Python from Battle Cats (TBCML)
 
-I'm also on [Codeberg](https://codeberg.org/IceandFire04), where I do some Battle Cats stuff.
+**I'm mainly on [Codeberg](https://codeberg.org/IceandFire04) now where I do my Battle Cats stuff**
 
 That's about it! Check out my repos if you're interested!!
